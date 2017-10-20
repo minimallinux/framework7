@@ -1,0 +1,24 @@
+{
+  "name": "fw71",
+  "version": "1.0.0",
+  "description": "Template for Dual iOS Android Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimallinux/framework7.git"
+  },
+  "keywords": [
+    "framework7",
+    "android",
+    "ios"
+  ],
+  "author": "P A McGowan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimallinux/framework7/issues"
+  },
+  "homepage": "https://github.com/minimallinux/framework7#readme"
+}
