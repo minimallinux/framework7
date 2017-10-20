@@ -17,8 +17,18 @@
   ],
   "author": "P A McGowan",
   "license": "ISC",
+  "homepage": "https://github.com/minimallinux/framework7#readme",
   "bugs": {
     "url": "https://github.com/minimallinux/framework7/issues"
   },
-  "homepage": "https://github.com/minimallinux/framework7#readme"
+ 
+   "devDependencies":{
+        "gulp": "*",
+        "gulp-plumber": "*",
+        "gulp-csscomb": "*",
+        "gulp-merge-media-queries": "*",
+        "gulp-imagemin": "*",
+        "gulp-cache": "*",
+        "browser-sync": "*"
+    }
 }
